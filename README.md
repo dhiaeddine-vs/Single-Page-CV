@@ -9,3 +9,4 @@ This simple, responsive HTML CV demonstrates:
 * Clean, organized code
 * Essential sections for a professional CV
 * My dual focus on textile engineering and web development
+ Here is my project's URL : https://github.com/dhiaeddine-vs/Single-Page-CV/tree/main
